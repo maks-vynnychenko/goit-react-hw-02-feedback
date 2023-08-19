@@ -1,0 +1,12 @@
+.statisticsList {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.statisticsList > li {
+  font-size: 20px;
+  font-weight: 600;
+}
